@@ -48,8 +48,6 @@ The following packages were used in the development of this project:
 - strings
 - time
 
-Make sure to have these packages installed before running the program.
-
 ## Contribution
 
 Contributions are welcome! If you would like to contribute to the Site Monitor project, please follow these steps:
